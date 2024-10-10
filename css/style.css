@@ -1,0 +1,113 @@
+:root{
+    --primario: #39A900; /*verde corporativo*/
+    --secundario: #007832; /*verde obscuro*/
+    --blanco: #ffffff; 
+    --obscuro: #000000; 
+    --gris: #F6F6F6;
+    --fuente-principal: 3.8rem;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+    font-family: 'Work Sans';
+}
+
+h1 span{
+    font-size: 2rem;
+}
+
+h1 {
+    text-align: center;
+    color: var(--primario);
+    font-size: var(--fuente-principal); /* 10px = 1rem*/
+}
+h2 {
+    text-align: center;
+    color: green;
+}
+h3 {
+    color: darkgreen;
+}
+
+p{
+    color: rgb(2, 2, 2);
+}
+
+/*uso class en el html para el estilo*/
+.titulo {
+    text-align: center;
+    color: var(--primario);
+    font-size: var(--fuente-principal);  
+    font-family: 'krub', Arial, Helvetica, sans-serif;
+}
+
+.titulo span{
+    font-size: 2rem;
+}
+
+h1.titulo span {
+    font-size: 2rem;
+    color: var(--secundario);
+}
+.navegacion-principal {
+    background-color: var(--secundario);
+    padding: 1rem;
+    display: flex;
+    /*flex-direction: column;
+    align-items: center;*/
+    justify-content: space-between;
+}
+.navegacion-principal a{
+    /*background-color: var(--primario);*/
+    color: var(--blanco);
+    display: inline;
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+.navegacion-principal a:hover {
+    background-color: var(--primario);
+    color: var(--obscuro);
+}
+.contenedor{
+    width: 120rem; /* 1280pc */
+    margin: 0 auto;
+}
+.nav-bg {
+    background-color: var(--secundario);
+}
+
+.nav-bg{
+    background-color: var(--secundario);
+
+}
+
+@media (min-whdht: 480px){
+body {
+    background-color: yellow;
+}
+.navegacion-principal {
+    flex-direction: row;
+}
+}
+.fondo {
+    background-image: url(../Imagenes/fondo.jpg);
+}
+
+@media (min-whdht: 768px){
+    body {
+        background-color: greenyellow;
+    }
+ }
+ @media (min-width: 1020){
+   
+    
+ }
+ 
+ @media (min-width: 1120){
+
+ }
+ 

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADSOM</title>
+    <linkrel="preload" href="CSS/normalize.css"></linkrel>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="preload" href="css/style.css" as="style">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Krub:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <!--  Comentario -->
+        <img src="img/logo sena.png">
+        <h1 class="titulo">Taller Adso <span>WWW</span></h1>
+    </header>
+    <div class="nav-bg"   
+    <nav class="navegacion-principal contenedor">
+        <a href="index.html">Inicio</a>
+    </nav>
+    <div>
+    <section class="fondo">
+        <h2>Martin Caleb Henao Garcia</h2>
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-map-pin-filled" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#00b341" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+            <path d="M18.364 4.636a9 9 0 0 1 .203 12.519l-.203 .21l-4.243 4.242a3 3 0 0 1 -4.097 .135l-.144 -.135l-4.244 -4.243a9 9 0 0 1 12.728 -12.728zm-6.364 3.364a3 3 0 1 0 0 6a3 3 0 0 0 0 -6z" stroke-width="0" fill="currentColor" />
+          </svg>
+         <p>Tulua valle del cauca</p> 
+         <a href="#">Contactar</a>
+        </div>
+    </section>
+    <main>
+        <section>
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world" width="40" height="40"
+                viewBox="0 0 24 24" stroke-width="1.5" stroke="#39A900" fill="none" stroke-linecap="round"
+                stroke-linejoin="round">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+                <path d="M3.6 9h16.8" />
+                <path d="M3.6 15h16.8" />
+                <path d="M11.5 3a17 17 0 0 0 0 18" />
+                <path d="M12.5 3a17 17 0 0 1 0 18" />
+            </svg>
+            <h3>La viruela Símica</h3>
+            <p>La viruela símica (o del mono) es una infección viral en la que una persona desarrolla fiebre, fatiga, dolores musculares y una erupción cutánea que puede afectar el cuerpo entero. La mayoría de los casos se resuelven dentro de 2 a 4 semanas.
+            Esta enfermedad poco común por lo regular se encontró principalmente en países del centro y occidente de África. Desde enero del 2023, ha habido un brote continuo en la República Democrática del Congo (RDC). La Organización Mundial de la Salud (OMS) declaró recientemente este brote como una Emergencia de Salud Pública de Interés Internacional. Este es el nivel de alerta global más alto de la OMS, que reconoce la posible amenaza a los países en todo el mundo.
+            En este momento, los Centros para el Control y la Prevención de Enfermedades han evaluado el riesgo de infección para la población general en los Estados Unidos como muy bajo.</p>
+        </section>
+        <section>
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-devices" width="40" height="40"
+                viewBox="0 0 24 24" stroke-width="1.5" stroke="#39A900" fill="none" stroke-linecap="round"
+                stroke-linejoin="round">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                <path d="M13 9a1 1 0 0 1 1 -1h6a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-6a1 1 0 0 1 -1 -1v-10z" />
+                <path d="M18 8v-3a1 1 0 0 0 -1 -1h-13a1 1 0 0 0 -1 1v12a1 1 0 0 0 1 1h9" />
+                <path d="M16 9h2" />
+            </svg>
+            <h3>Causas</h3>
+            <p>El virus se puede propagar cuando una persona entra en contacto cercano con un animal o humano infectado o con material contaminado con el virus.
+            La viruela símica puede transmitirse de animal a humano cuando una persona:
+            -Entra en contacto con un animal infectado
+            -Es mordida o arañada por un animal infectado
+            -Manipula o consume carne de animales silvestres
+            Las personas con la viruela símica pueden contagiar el virus a animales, como mascotas o ganado.
+
+            La viruela símica se puede transmitir de humano a humano a través del contacto cercano, como:
+            -Contacto directo piel con piel con fluidos corporales, llagas, erupción cutánea o costras de una persona infectada
+            -Tocar objetos, ropa, sábanas o superficies utilizadas por una persona con la viruela símica
+            -Exposición a gotitas respiratorias grandes
+            La viruela símica se puede transmitir de humano a humano durante el contacto íntimo, incluyendo:
+            -Relaciones sexuales orales, anales y vaginales
+            -Tocar los genitales o el ano de una persona infectada
+            -Abrazos, besos, caricias y masajes
+            -Contacto cara a cara
+            -Tocar telas u objetos durante la relación sexual que fueron utilizados por una persona con la viruela símica como ropa de cama, toallas y juguetes sexuales
+            Una persona embarazada puede transmitir el virus a su feto a través de la placenta.</p>
+        </section>
+    </main>
+    <section>
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="40" height="40"
+            viewBox="0 0 24 24" stroke-width="1.5" stroke="#39A900" fill="none" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" />
+            <path d="M3 7l9 6l9 -6" />
+        </svg>
+        <h2>Contacto</h2>
+        <form>
+            <fieldset>
+                <legend>Contactanos llenando todos los campos</legend>
+                <div>
+                    <label>Nombre</label>
+                    <input type="text" placeholder="Digite su nombre completo">
+                </div>
+                <div>
+                    <label>Teléfono</label>
+                    <input type="tel" placeholder="Digite un número de teléfono">
+                </div>
+                <div>
+                    <label>Correo eléctronico</label>
+                    <input type="email" placeholder="Escriba un correo valido">
+                </div>
+                <div>
+                    <label>Mensaje</label>
+                    <textarea></textarea><br>
+                </div>
+                <div>
+                    <input type="submit" value="Enviar">
+                </div>
+            </fieldset>
+
+        </form>
+    </section>
+    <footer>
+        Todos los derechos reservados Adso 2024
+    </footer>
+</body>
+
+</html>
